@@ -3,15 +3,6 @@ In this assignment, you are going to implement a sports roster management system
 
 You are provided with an `Athlete` class and the beginnings of the application class.  You must provide the remaining implementations.
 
-## Assignment Submission
-You will submit your assignment using GitHub Classroom.  When you are finished and want to make your final submission, use the checkin comment "FINAL SUBMISSION":
-
-        git add .
-        git commit -m "FINAL SUBMISSION"
-        git push origin main
-
-Any submission not having this comment will be assumed to be a work-in-progress and therefore will be ignored.  This implies that you must make your final push with this commit comment before the deadline.
-
 ## Implementation Notes
 - You will need to create two different implementations of the `Athlete` abstract class:
    - `FootballPlayer`: This implementation should be used for football players. It should have the following additional properties and methods related to football (along with their getters):
